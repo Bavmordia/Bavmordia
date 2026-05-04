@@ -1,4 +1,4 @@
-## Hi there, 👋 I'm Nicole!
+## Hi there,👋 I'm Nicole!
 
 <!--
 - 🔭 I’m currently working on ...
