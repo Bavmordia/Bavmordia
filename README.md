@@ -9,9 +9,9 @@ With a strong foundation in SQL, Excel, and data visualization, I focus on clean
 My background in retail operations has given me a strong understanding of business processes, customer behavior, and operational efficiency.
 
 #### Tools & Technologies:
-+ Excel\
-+ SQL\
-+ Tableau / Power BI\
++ Excel
++ SQL
++ Tableau / Power BI
 + Python
 
 #### A Bit About Me:
